@@ -1,0 +1,21 @@
+body{
+	background-color: #282828;
+	color: #e5f3e5;
+}
+h1{
+	color: #07f2f9;
+	font-family: monospace;
+	font-size: 2.5em;
+	font-style: italic;
+	text-transform:uppercase;
+}
+h2{
+	color: #07f2f9;
+	font-family: monospace;
+	font-size: 2em;
+}
+a{
+	text-decoration: none;
+	font-weight: 550;
+	color: #1fdee3
+}
