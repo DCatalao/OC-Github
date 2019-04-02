@@ -1,3 +1,5 @@
 Hello! My name is Daniel and this is my first line on this document.
 
 The most difficult part of this activity was to use the Notepad++ as a core text editor.
+
+But I want to change the Home directory from git bash and dont founded a good solution yet.
